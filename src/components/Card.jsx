@@ -9,7 +9,7 @@ const Card = () => {
 
       <div className='flex h-screen mx-auto justify-center items-center bg-light-gray'>
 
-        <div className='w-80 bg-white text-center p-4 rounded-2xl'>
+        <div className='w-80 bg-white text-center p-4 rounded-2xl shadow-xl'>
   
           <img 
             src={qrcode} 
